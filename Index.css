@@ -1,0 +1,25 @@
+#head{
+    text-align: center;
+    font-size: 30px;
+}
+.hey{
+    font-size: 20px;
+    padding: 40px;
+}
+article{
+    background-color: gray;
+    align-content: center;
+    text-align: center;
+}
+
+aside{
+    float: right;
+    width: 35%;
+}
+section{
+    float: left;
+    width: 50%;
+}
+footer{
+    clear: both;
+}
